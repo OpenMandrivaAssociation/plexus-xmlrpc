@@ -101,7 +101,7 @@ is like a J2EE application server, without all the baggage.
 
 %package javadoc
 Summary:        Javadoc for %{name}
-Group:          Development/Documentation
+Group:          Development/Java
 Requires(post):   /bin/rm,/bin/ln
 Requires(postun): /bin/rm
 
