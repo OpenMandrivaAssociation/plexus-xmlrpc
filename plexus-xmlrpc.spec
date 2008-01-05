@@ -43,7 +43,7 @@
 
 Name:           plexus-xmlrpc
 Version:        1.0
-Release:        %mkrel 0.b4.5.0.0
+Release:        %mkrel 0.b4.5.0.1
 Epoch:          0
 Summary:        Plexus XML RPC Component
 License:        Apache Software License
@@ -72,6 +72,7 @@ BuildRequires:  maven2-plugin-jar
 BuildRequires:  maven2-plugin-javadoc
 BuildRequires:  maven2-plugin-resources
 BuildRequires:  maven2-plugin-surefire
+BuildRequires:  maven2-plugin-release
 %endif
 BuildRequires:  classworlds >= 0:1.1
 BuildRequires:  commons-codec
