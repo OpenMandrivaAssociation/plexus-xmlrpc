@@ -38,7 +38,7 @@
 
 Name:           plexus-xmlrpc
 Version:        1.0
-Release:        0.5.b4.3
+Release:        0.5.b4.5
 Summary:        Plexus XML RPC Component
 License:        ASL 1.1 and MIT
 Group:          Development/Java
