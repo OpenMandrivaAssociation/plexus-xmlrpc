@@ -42,7 +42,7 @@ Release:        0.5.b4.5
 Summary:        Plexus XML RPC Component
 License:        ASL 1.1 and MIT
 Group:          Development/Java
-URL:            http://plexus.codehaus.org/
+URL:            https://plexus.codehaus.org/
 # svn export svn://svn.plexus.codehaus.org/plexus/tags/plexus-xmlrpc-1.0-beta-4/
 # tar czf plexus-xmlrpc-1.0-beta-4-src.tar.gz plexus-xmlrpc-1.0-beta-4/
 Source0:        plexus-xmlrpc-1.0-beta-4-src.tar.gz
